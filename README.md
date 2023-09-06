@@ -1,4 +1,4 @@
-/*
+<--
 <h3 align="center">
 My Tech Stacks
 </h3>
@@ -6,7 +6,7 @@ My Tech Stacks
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
 </h3>
-*/
+-->
 
 ![wallpaperflare com_wallpaper (1)](https://github.com/upmorpheus/sample-beautiful/assets/15317480/98dd3ad9-6a24-4f27-9573-f8a87e9811b5)
 
